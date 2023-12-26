@@ -1,4 +1,4 @@
-**Module 12 Report**
+**MODULE 12 REPORT**
 
 ## Overview of the Analysis
 
